@@ -1,3 +1,5 @@
+import { log } from "./utilities";
+log();
 const add = (a: number, b: number): number => a + b;
 
 export default add;
