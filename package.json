@@ -15,7 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
-    "@types/lodash.get": "^4.4.7"
+    "@types/lodash.get": "^4.4.7",
+    "@types/node": "^18.11.2"
   },
   "dependencies": {
     "lodash.get": "^4.4.2",
